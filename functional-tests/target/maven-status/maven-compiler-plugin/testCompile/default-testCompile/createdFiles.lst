@@ -1,0 +1,7 @@
+org\jboss\as\quickstarts\kitchensink\test\RESTTest.class
+org\jboss\as\quickstarts\kitchensink\test\KitchensinkAngularjsTest.class
+org\jboss\as\quickstarts\kitchensink\test\Deployments.class
+org\jboss\as\quickstarts\kitchensink\test\page\MemberPageFragment.class
+org\jboss\as\quickstarts\kitchensink\test\page\MembersTablePageFragment.class
+org\jboss\as\quickstarts\kitchensink\test\Member.class
+org\jboss\as\quickstarts\kitchensink\test\page\RegistrationFormPageFragment.class
