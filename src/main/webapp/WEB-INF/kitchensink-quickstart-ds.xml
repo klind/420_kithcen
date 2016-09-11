@@ -29,7 +29,7 @@
 	<!-- </datasource> -->
 	<datasource jta="true" jndi-name="java:/420DSX" pool-name="420DSX"
 		enabled="true" use-ccm="true">
-		<connection-url>jdbc:mysql://localhost:3306/420</connection-url>
+		<connection-url>jdbc:mysql://172.31.8.200:3306/420</connection-url>
 		<driver-class>com.mysql.jdbc.Driver</driver-class>
 		<driver>mysql-connector-java-5.1.39-bin.jar_com.mysql.jdbc.Driver_5_1</driver>
 		<security>
